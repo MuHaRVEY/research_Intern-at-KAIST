@@ -16,7 +16,7 @@
 * **Communication:** I learned firsthand just how crucial clear and proactive communication is when collaborating in a team.
 * **Personal Fit:** I challenged myself with this internship driven by my pure fascination with the "brain." However, it was a tough journey as the specific research details and daily tasks didn't perfectly align with my initial expectations.
 * **Gratitude:** I was constantly in awe of the fluent English proficiency of the lab members during our weekly meetings. Most importantly, I felt constantly apologetic, yet deeply and genuinely grateful, to my mentor (senior researcher) and professor who patiently guided me through every step.
-* **Overall:** Despite the struggles, it was a truly valuable experience at a dream university I had always wanted to be a part of.
+* **Overall:** Despite the struggles, it was a truly valuable experience at a dream university I had always wanted to be a part of. If it had not overlapped with my exchange program, I might have continued working toward joining that lab. However, it could not be helped. Since I did step away in the end, I simply hope that everyone who gave me a valuable experience there will do well.
 
 
 <img width="2864" height="624" alt="SOM_1_0000_param_apply_WITH_HUMAN_STAGE" src="https://github.com/user-attachments/assets/55312aeb-d70e-4d0b-b32d-8e8303d8de9e" />
