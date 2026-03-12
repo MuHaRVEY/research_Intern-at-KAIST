@@ -9,6 +9,7 @@
 * **Parameter Tuning:** Initially, I attempted to apply the human sleep model to rodent data. I tried to find the appropriate parameters for rodents since their biological mechanisms differ from humans, but this attempt was ultimately unsuccessful.
 * **Math in Code:** This was my first time implementing mathematical concepts like MLE (Maximum Likelihood Estimation) into actual code. It deeply taught me the critical importance of statistics in computational modeling.
 * **Documentation:** Due to poor file management on my part, a significant amount of data was lost. Through this painful mistake, I learned exactly why meticulous documentation and version control are essential.
+* **Unexpected Results & Troubleshooting:** Above all else, when feeding the rodent data into the human model, the shape and trend of the resulting graph turned out exactly the opposite of what was expected. I went through a lot of mental distress and struggled heavily trying to troubleshoot and fix this issue.
 
 ### Collaboration & Mindset
 * **Reading Code:** I keenly realized that understanding a massive codebase written by others is not something that can be done overnight. It requires patience and a structured approach.
@@ -16,3 +17,6 @@
 * **Personal Fit:** I challenged myself with this internship driven by my pure fascination with the "brain." However, it was a tough journey as the specific research details and daily tasks didn't perfectly align with my initial expectations.
 * **Gratitude:** I was constantly in awe of the fluent English proficiency of the lab members during our weekly meetings. Most importantly, I felt constantly apologetic, yet deeply and genuinely grateful, to my mentor (senior researcher) who patiently guided me through every step.
 * **Overall:** Despite the struggles, it was a truly valuable experience at a dream university I had always wanted to be a part of.
+
+
+<img width="2864" height="624" alt="SOM_1_0000_param_apply_WITH_HUMAN_STAGE" src="https://github.com/user-attachments/assets/55312aeb-d70e-4d0b-b32d-8e8303d8de9e" />
